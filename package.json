@@ -17,7 +17,7 @@
   "author": "Lukas",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "ferancik_package": "git://github.com/ferancik-s/ferancik_package.git#bebb07cda52b516d8592f3794cb59554acee8bb8",
